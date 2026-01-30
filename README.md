@@ -1,11 +1,11 @@
  <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=20B2AA&center=true&vCenter=true&width=500&lines=🚀+I'm+[NAME];Data+Scientist;Data+Analyst;ML+%7C+NLP+Enthusiast;Open+to+Collaboration!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=20B2AA&center=true&vCenter=true&width=500&lines=🚀+I'm+[Manojgowda K C];Data+Scientist;Data+Analyst;ML+%7C+NLP+Enthusiast;Open+to+Collaboration!" alt="Typing SVG">
 </h1>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=[USERNAME]&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://github.com/[USERNAME]?tab=followers">
-    <img src="https://img.shields.io/github/followers/[USERNAME]?label=Followers&style=social" alt="GitHub Followers">
+  <img src="https://komarev.com/ghpvc/?username=[manojgowda010]&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://github.com/[manojgowda010]?tab=followers">
+    <img src="https://img.shields.io/github/followers/[manojgowda010]?label=Followers&style=social" alt="GitHub Followers">
   </a>
 </div>
 
@@ -13,13 +13,13 @@
   <a href="https://www.linkedin.com/in/[LINKEDIN_ID]/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" />
   </a>
-  <a href="https://github.com/[USERNAME]" target="_blank">
+  <a href="https://github.com/[manojgowda010]" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white&logoWidth=20" />
   </a>
   <a href="mailto:[EMAIL]@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20" />
   </a>
-  <a href="https://medium.com/@[USERNAME]" target="_blank">
+  <a href="https://medium.com/@[manojgowda010]" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&logoWidth=20" />
   </a>
   <a href="https://kaggle.com/[USERNAME]" target="_blank">
